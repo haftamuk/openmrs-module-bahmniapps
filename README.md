@@ -17,6 +17,10 @@
 # Build
 
 ### Notes
+1. This repository contains Ayder specific details please use [THE ORIGINAL REPOSITORY](https://github.com/Bahmni/openmrs-module-bahmniapps)
+
+
+### Notes
 1. This build requires Node, npm, yarn, grunt and compass (ruby).
 2. You can see the [Github Action Build](https://github.com/Bahmni/openmrs-module-bahmniapps/actions/workflows/build_publish.yml) to see what commands get executed.
 
