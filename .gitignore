@@ -11,6 +11,7 @@ target
 output
 .sass-cache
 ui/.css/
+ui/dist/
 .tmp
 ui/node_modules
 ui/app/components
